@@ -5,5 +5,7 @@
 <p>I develop professional web applications and enjoy working on other hobby projects.
 Feel free to contact me!</p>
 
+<p>You can find more about my projects here: <a href="https://www.umekweb.com/AnzeUmek/portfolio.xhtml">Portfolio</a>.</p> 
+
 ### Some of my skills
 [![My Skills](https://skillicons.dev/icons?i=eclipse,java,postgres,mysql,maven,html,css,cs,visualstudio,github,git,cloudflare,ps,windows,wordpress)](https://skillicons.dev)
